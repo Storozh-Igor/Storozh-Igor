@@ -9,4 +9,4 @@
 * React
 
 
-Связаться со мной: [linkedin] {https://www.linkedin.com/in/igor-storozh-7953ba228/}
+Связаться со мной: [linkedin](https://www.linkedin.com/in/igor-storozh-7953ba228/)
