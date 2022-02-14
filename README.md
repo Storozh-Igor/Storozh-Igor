@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://i.gifer.com/6bye.gif"/>
+# Здравствуй! <img src="https://i.gifer.com/6bye.mp4"/>
 
 ### Меня зовут Игорь, я фронтенд-разработчик
 
