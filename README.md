@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://media1.giphy.com/media/YmTyGDmIubn6E/giphy.gif?cid=ecf05e470fku6vfvmi9m3newjaet4z9fn6bzl5wsm29jt88w&rid=giphy.gif&ct=g" width="100">
+# Здравствуй! <img src="https://media3.giphy.com/media/7srpeY4TZMrO8/giphy.gif?cid=ecf05e476fi63b1qptgloldgusve3mw5fnc6rurh6lqqe6tz&rid=giphy.gif&ct=g" width="100">
 
 ### Меня зовут Игорь, я фронтенд-разработчик
 
